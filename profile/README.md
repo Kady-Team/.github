@@ -4,11 +4,13 @@
 
 ## Who we are ?
 > 🙃 We are a lot of developers, designers and testers
-Sedorriku#1949 -- Owner / Developer
+Sedorriku#1949 -- Owner / Developer / Designer
 little#8291 -- Developer / Security expert
+TO_mt#1003 -- Communication / Marketing / Functionality Tester
 Emiyα#0999 -- Developer
 Théo#3476 -- Bug and functionality Tester 
 Koishi#4827 -- Bug Tester / Corrector
+ⱫØⱫØ฿ⱠØ₮ツ#7523 -- Communication / Marketing 
 
 ## What is our current projects ?
 
